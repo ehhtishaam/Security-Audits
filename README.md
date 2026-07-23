@@ -8,7 +8,7 @@ A collection of security audit write-ups, organized by engagement. Each folder c
 
 ## 📁 Audits
 
-### 🔹 [Botium Toys Security Audit](./Botium-Toys-Audit)
+### 🔹 [Botium Toys Security Audit](./Botium-Toys-Audit/Audit-Report.md)
 NIST CSF-based audit of a fictional small business, completed as part of the Google Cybersecurity Professional Certificate. Covers asset identification, a 14-control assessment, and compliance alignment across PCI DSS, GDPR, and SOC — risk score: 8/10.
 
 ### 🔹 *(Future audits will be added here as folders)*
