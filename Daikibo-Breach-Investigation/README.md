@@ -39,4 +39,4 @@ The account with `authorizedUserId: mdB7yD2dp1BFZPontHBQ1Z` (associated with IP 
 - Incident investigation methodology (volume triage → timing analysis → failure-mode review → alternate-vector elimination)
 - Clear, evidence-based security reporting
 
-*Completed as part of Deloitte's Cyber Job Simulation on Forage.*
+*Completed Deloitte's Cyber Job Simulation on Forage.*
