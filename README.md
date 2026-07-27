@@ -8,8 +8,11 @@ A collection of security audit write-ups, organized by engagement. Each folder c
 
 ## 📁 Audits
 
-### 🔹 [Botium Toys Security Audit](./Botium-Toys-Audit/Audit-Report.md)
+### 🔹 [Botium Toys Security Audit](./Botium-Toys-Audit)
 NIST CSF-based audit of a fictional small business, completed as part of the Google Cybersecurity Professional Certificate. Covers asset identification, a 14-control assessment, and compliance alignment across PCI DSS, GDPR, and SOC — risk score: 8/10.
+
+### 🔹 [Daikibo Industrials Breach Investigation](./Daikibo-Breach-Investigation)
+Log-analysis investigation of a suspected dashboard breach for a fictional manufacturing client, completed as part of Deloitte's Cyber Job Simulation (Forage). Covers request-pattern analysis, anomaly detection, and brute-force elimination — identified a compromised account and confirmed automated, non-human access.
 
 ### 🔹 *(Future audits will be added here as folders)*
 
