@@ -4,7 +4,7 @@
 > ⚠️ **Note:** This is a simulated exercise completed as part of Deloitte's Cyber Job Simulation, hosted on Forage — not a real client engagement. Daikibo Industrials is a fictional company used for training purposes. The methodology and findings below are genuine and represent my own analysis.
 
 ## Background
-In this simulation, a news outlet had revealed sensitive private information about Daikibo Industrials (fictional client), and a production issue halted the client's assembly lines. The client suspected their manufacturing status dashboard had been breached. I was tasked with investigating `web_requests.log` — a record of every request made to the dashboard during the suspected attack window — to determine whether an attacker had been operating inside the system, and if so, identify the compromised account.
+In this simulation, a news outlet had revealed sensitive private information about Daikibo Industrials (fictional client), and a production issue halted the client's assembly lines. The client suspected their manufacturing status dashboard had been breached. I was tasked with investigating `web_activity.log` — a record of every request made to the dashboard during the suspected attack window — to determine whether an attacker had been operating inside the system, and if so, identify the compromised account.
 
 ## Objective
 1. Determine whether an internet-based attacker (no VPN access) could have directly accessed the status dashboard.
